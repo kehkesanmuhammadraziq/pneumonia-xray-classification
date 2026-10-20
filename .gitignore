@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Jupyter temporary files
+*.nbtmp
+
+# Datasets and model artifacts (do not commit large/private data)
+data/
+model/
+models/
+*.pth
+*.pt
+*.ckpt
+
+# Generated plots / local outputs
+content/
+plots/
+*.png
+*.jpg
+*.jpeg
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

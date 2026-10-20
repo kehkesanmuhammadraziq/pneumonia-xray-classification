@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+tqdm
+scikit-learn
+torch
+torchvision
+efficientnet-pytorch
+timm
+plotly
+jupyter
+ipykernel
