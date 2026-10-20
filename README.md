@@ -115,7 +115,3 @@ pneumonia-classifier/
 5. Add sensitivity, specificity, precision, recall, F1-score, and ROC-AUC.
 6. Add a clean, reproducible inference example and tests.
 7. Document the dataset license and intended-use limitations.
-
-## Author
-
-Add your name and a short professional description here if you want them on the public repository.
